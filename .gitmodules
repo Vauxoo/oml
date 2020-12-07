@@ -1,12 +1,12 @@
 [submodule "omlimport"]
 	path = omlimport
 	url = git@git.vauxoo.com:Vauxoo/omlimport.git
-	branch = 13.0
+	branch = 14.0
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
-	branch = 13.0
+	branch = 14.0
 [submodule "credit-management"]
 	path = credit-management
 	url = git@git.vauxoo.com:Vauxoo/credit-management.git
-	branch = 13.0
+	branch = 14.0
